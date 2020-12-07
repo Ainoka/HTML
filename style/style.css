@@ -1,0 +1,21 @@
+body{
+    background-color: lightsteelblue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.textcenter {
+    text-align: center;
+}
